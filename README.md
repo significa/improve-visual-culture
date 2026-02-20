@@ -213,29 +213,32 @@ Below are selected references that influenced specific parts of this learning pa
 ### Visual Literacy & Hierarchy
 
 **Nielsen Norman Group — Visual Hierarchy in UI Design**  
-https://www.nngroup.com/articles/visual-hierarchy-meaning/
+https://www.nngroup.com/articles/visual-hierarchy-ux-definition/
 
-- Supports Phase Zero and Phase One
-- Establishes visual hierarchy as a learnable skill
-- Reinforces the importance of spacing, typography, and prioritization over aesthetics
+**Nielsen Norman Group — Visual Design: Glossary**
+https://www.nngroup.com/articles/visual-design-cheat-sheet/
+
+- Provides a clear definition of visual hierarchy in UX
+- Explains how hierarchy guides user attention via color, scale, and contrast
+- Supports Phase Zero and Phase One practices by grounding hierarchy in recognized UX principles 
 
 ---
 
 ### Deliberate Practice in Design
 
-**UX Collective — The Virtue of Deliberate Practice in Design Skills**  
-https://uxdesign.cc/the-virtue-of-deliberate-practice-in-design-skills-a19b1ebf9f4
+**Nielsen Norman Group — UX Basics: Study Guide**  
+https://www.nngroup.com/articles/ux-basics-study-guide/
 
-- Supports the overall phase-based structure
-- Reinforces small, repeatable exercises with reflection
-- Aligns with daily and weekly practice loops in the roadmap
+- Lists essential UX fundamentals useful for developers learning visual and interaction basics
+- Reinforces core design thinking principles that complement visual literacy training
+- Supports Phase Zero and Phase One practices by grounding them in basic UX concepts
 
 ---
 
 ### Design Systems & Constraint-Driven Design
 
-**InVision — Design Systems Handbook**  
-https://www.invisionapp.com/inside-design/design-systems-guide/
+**Smashing Magazine — Design Systems Handbook**  
+https://www.smashingmagazine.com/design-systems-book/
 
 - Supports Phase Two (Design Systems Upgrade)
 - Emphasizes consistency, reuse, and constraints
@@ -243,53 +246,54 @@ https://www.invisionapp.com/inside-design/design-systems-guide/
 
 ---
 
-**Design Tokens and the Future of Design Systems**  
-https://uxdesign.cc/design-tokens-and-the-future-of-design-systems-e1c6a9a7a5d
+**Design Tokens for Non-Designers — UX Collective**  
+https://uxdesign.cc/design-tokens-for-non-designers-f68b8b0fbf0a
 
-- Supports token-first workflows
-- Reinforces defining constraints before components
-- Aligns with weekly system-building tasks
+- Explains design tokens in accessible terms for designers and developers
+- Reinforces token-first workflows
+- Aligns with defining constraints before building components
 
 ---
 
 ### Motion as Communication (Not Decoration)
 
-**Material Design — Understanding Motion**  
-https://material.io/design/motion/understanding-motion.html
+**Material Design 3 — Motion Overview**  
+https://m3.material.io/styles/motion/overview/how-it-works
 
 - Supports Phase Three (Interaction & Motion Discipline)
-- Frames motion as a communication tool
-- Reinforces restraint and clarity over animation for its own sake
+- Frames motion as a tool for feedback and hierarchy
+- Reinforces clarity and restraint over decorative animation
 
 ---
 
-**UX Movement — Why Motion Improves User Experience**  
-https://uxmovement.com/ui-design/why-motion-in-ui-is-important-for-user-experience/
+**Nielsen Norman Group — The Role of Animation in UX**  
+https://www.nngroup.com/articles/animation-purpose-ux/
 
-- Supports perceived performance principles
-- Reinforces purposeful motion and feedback states
+- Supports purposeful motion usage (Phase Three)
+- Explains how motion should communicate state change and feedback
+- Reinforces motion as a *UX tool*, not decoration
 
 ---
 
 ### Developer–Designer Collaboration
 
-**Smashing Magazine — Design Systems Maturity & Design Engineering**  
-https://www.smashingmagazine.com/2018/02/design-systems-maturity-model-design-engineering/
+**Sparkbox — Design System Maturity Model (Ben Callahan)**    
+https://sparkbox.com/foundry/design_system_maturity_model
 
-- Supports the collaboration philosophy behind the roadmap
-- Reinforces shared ownership between design and engineering
-- Validates early, cross-functional involvement
+- Supports the collaboration philosophy behind the roadmap by framing design systems as a cross-discipline effort
+- Reinforces shared ownership between design and engineering as systems mature
+- Validates early, cross-functional involvement and continuous improvement over time
 
 ---
 
 ### Industry Design Principles (Real-World Practice)
 
-**Airbnb Design Principles**  
-https://airbnb.design/principles/
+**Google Design — Airbnb Invites You In (Design Characteristics)**
+https://design.google/library/airbnb-invites-you-in
 
-- Reinforces restraint, clarity, and system thinking
-- Aligns with extracting principles rather than copying visuals
-- Supports the monthly reverse-engineering exercises
+- Captures Airbnb’s guiding design characteristics (e.g., unified, universal, iconic, conversational)
+- Reinforces principle-led design thinking over surface-level visuals
+- Supports the monthly reverse-engineering exercises (extract principles, don’t copy UI)
 
 ---
 
